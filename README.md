@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://porfolio-994ij3jqm-lodhiradhe123s-projects.vercel.app/](https://porfolio-994ij3jqm-lodhiradhe123s-projects.vercel.app/)
 
-- 📄 Know about my experiences [https://drive.google.com/drive/search?q=resume](https://drive.google.com/drive/search?q=resume)
+- 📄 Know about my experiences [https://drive.google.com/drive/search?q=resume]([https://drive.google.com/drive/search?q=resume](https://drive.google.com/file/d/1YcuRFfN3f7tQnkwM28Gh9pI5pMNk2vEM/view?usp=sharing))
 
 - ⚡ Fun fact **I am funny 🤣**
 
