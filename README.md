@@ -1,33 +1,85 @@
 <h1 align="center">Hi 👋, I'm Radheshyam Lodhi</h1>
-<h3 align="center">A passionate Mern Stack developer from India</h3>
+<h3 align="center">🚀 A Passionate MERN Stack Developer from India 🌍</h3>
 
-<img align="right" alt="coading" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lodhiradhe123&label=Profile%20views&color=0e75b6&style=flat" alt="lodhiradhe123" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lodhiradhe123" alt="lodhiradhe123" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Purat_technology**
-
-- 👨‍💻 All of my projects are available at [https://porfolio-994ij3jqm-lodhiradhe123s-projects.vercel.app/](https://porfolio-994ij3jqm-lodhiradhe123s-projects.vercel.app/)
-
-- 📄 Know about my experiences [https://drive.google.com/drive/search?q=resume]([https://drive.google.com/file/d/1YcuRFfN3f7tQnkwM28Gh9pI5pMNk2vEM/view])
-
-- ⚡ Fun fact **I am funny 🤣**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/radheshyam-lodhi-227171199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/radheshyam-lodhi-227171199" height="30" width="40" /></a>
-<a href="https://instagram.com/radheshyam5228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="radheshyam5228" height="30" width="40" /></a>
+<!-- Developer Themed Banner -->
+<p align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/55389276/141597740-d4b5a23d-6a91-44c3-9cf0-9b8a3e36d6b3.gif" alt="MERN Developer Banner"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lodhiradhe123&show_icons=true&locale=en&layout=compact" alt="lodhiradhe123" /></p>
+### About Me 💻
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lodhiradhe123&show_icons=true&locale=en" alt="lodhiradhe123" /></p>
+- 🔭 I’m currently working at **Purat Technology**.  
+- 🌱 I’m exploring **Next.js** and **GraphQL** for modern web development.  
+- 🧑‍💻 All my projects are available at **[My Portfolio](https://porfolio-994ij3jqm-lodhiradhe123s-projects.vercel.app/)**.  
+- 📄 Check out my resume: **[View Here](https://drive.google.com/file/d/1YcuRFfN3f7tQnkwM28Gh9pI5pMNk2vEM/view)**.  
+- ⚡ Fun fact: **I love creating tech memes and learning through humor.**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lodhiradhe123&" alt="lodhiradhe123" /></p>
+---
+
+### Connect With Me 🌐
+
+<p align="center">
+  <a href="https://linkedin.com/in/radheshyam-lodhi-227171199" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/radheshyam5228" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:radheshyam5228@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Email-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/ReactJS-blue?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/ExpressJS-black?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-brightgreen?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-teal?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lodhiradhe123&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lodhiradhe123&theme=radical" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lodhiradhe123&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+### 🔥 Fun Projects 
+
+#### Featured MERN Projects
+- 🚀 **[E-Commerce Web App](https://github.com/lodhiradhe123/ecommerce-web-app)** - A full-stack e-commerce app with payment integration.
+- 🌟 **[Real-Time Chat App](https://github.com/lodhiradhe123/real-time-chat)** - Built using WebSocket and React.
+- 📝 **[Blogging Platform](https://github.com/lodhiradhe123/blog-platform)** - With Markdown support and admin panel.
+
+---
+
+### 🎨 Custom Themes for Visual Appeal
+
+1. **Dark Developer Theme** - Matches the coding aesthetic.  
+2. **Interactive Elements** - Dynamic badges, counters, and project highlights.  
+3. **Custom Icons and GIFs** - For a professional but approachable style.  
+
+---
+
+> **_Feel free to fork this repository and use it as inspiration for your own GitHub README!_** 🚀
